@@ -1,10 +1,14 @@
-🚀 I’m a Junior Data Analyst
+🚀 I’m a Junior Data Analyst!
 
-📊 Data Analyst with hands-on experience in ETL processes, SQL databases and data visualization
-📈 Focused on turning raw data into business insights and actionable KPIs
-🧠 Background in Information Technologies with strong analytical and problem-solving skills
-☁️ Experience working with AWS in data projects
-🤝 Open to junior roles, internships and startup collaboration
+📊 Data Analyst with hands-on experience in ETL processes, SQL databases and data visualization.
+
+📈 Focused on turning raw data into business insights and actionable KPIs.
+
+🧠 Background in Information Technologies with strong analytical and problem-solving skills.
+
+☁️ Experience working with AWS in data projects.
+
+🤝 Open to junior roles, internships and startup collaboration.
 
 🛠️ Languages
 
@@ -13,6 +17,7 @@
 🗄️ SQL
 
 📊 Excel / Google Sheets
+
 
 📈 Data Analysis & Analytics
 
@@ -30,6 +35,7 @@ Query Optimization
 
 Business-oriented Insights
 
+
 📊 Data Visualization & BI
 
 Looker Studio (Dashboards & Reports)
@@ -37,6 +43,7 @@ Looker Studio (Dashboards & Reports)
 Data Storytelling
 
 Metric Tracking & Performance Analysis
+
 
 🗄️ Databases & Tools
 
@@ -48,9 +55,11 @@ Pandas & NumPy
 
 Git & GitHub
 
+
 ☁️ Cloud & Platforms
 
 AWS (data storage & project workflows)
+
 
 📌 Projects
 
