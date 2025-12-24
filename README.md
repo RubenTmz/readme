@@ -10,7 +10,8 @@
 
 🤝 Open to junior roles, internships and startup collaboration.
 
-🛠️ Languages
+
+🛠️ Languages:
 
 🐍 Python
 
@@ -19,7 +20,7 @@
 📊 Excel / Google Sheets
 
 
-📈 Data Analysis & Analytics
+📈 Data Analysis & Analytics:
 
 Data Cleaning & Transformation
 
@@ -36,7 +37,7 @@ Query Optimization
 Business-oriented Insights
 
 
-📊 Data Visualization & BI
+📊 Data Visualization & BI:
 
 Looker Studio (Dashboards & Reports)
 
@@ -45,7 +46,7 @@ Data Storytelling
 Metric Tracking & Performance Analysis
 
 
-🗄️ Databases & Tools
+🗄️ Databases & Tools:
 
 SQLite
 
@@ -56,12 +57,12 @@ Pandas & NumPy
 Git & GitHub
 
 
-☁️ Cloud & Platforms
+☁️ Cloud & Platforms:
 
 AWS (data storage & project workflows)
 
 
-📌 Projects
+📌 Projects:
 
 Sales & Business Data Analysis (ETL + KPIs + Dashboards)
 
